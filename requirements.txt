@@ -3,3 +3,4 @@ python-dateutil
 scrapy
 yapf
 rich
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
